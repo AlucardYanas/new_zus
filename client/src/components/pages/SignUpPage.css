@@ -1,0 +1,21 @@
+/* @keyframes fire {
+  0% {
+    text-shadow: 0 0 0 red, 0 0 0 orange, 0 0 0 yellow;
+  }
+  25% {
+    text-shadow: 0 0 5px red, 0 0 10px orange, 0 0 15px yellow;
+  }
+  50% {
+    text-shadow: 0 0 15px red, 0 0 20px orange, 0 0 25px yellow;
+  }
+  75% {
+    text-shadow: 0 0 10px red, 0 0 15px orange, 0 0 20px yellow;
+  }
+  100% {
+    text-shadow: 0 0 0 red, 0 0 0 orange, 0 0 0 yellow;
+  }
+} */
+
+/* .fire-text {
+  animation: fire 1s infinite;
+} */
